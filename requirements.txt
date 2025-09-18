@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+pypdf2
+ollama
+langchain
+tabulate
