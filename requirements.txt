@@ -5,3 +5,7 @@ pypdf2
 ollama
 langchain
 tabulate
+fastapi
+uvicorn
+python-multipart
+requests
